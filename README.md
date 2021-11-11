@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-![My animated text](assets/balramtext.gif)
+      <img src="assets/balramtext.gif" alt="Image" width="800" height="600" />
 </p>
 
 
