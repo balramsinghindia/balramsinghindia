@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-      <img src="assets/balramtext.gif" alt="Image" width="200" />
+      <img src="assets/balram.png" alt="Image" width="662" />
 </p>
 
 
