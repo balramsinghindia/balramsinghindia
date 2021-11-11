@@ -10,9 +10,9 @@
 [Talks](https://github.com/balramsinghindia/about-balram#talks "Talks")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Trainings](https://github.com/balramsinghindia/about-balram#trainings-delivered "Trainings")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Features](https://github.com/balramsinghindia/about-balram#features "Features")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Integrations](https://github.com/balramsinghindia/about-balram#integration-with-backend-technologies "Integrations")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Pipeline](https://github.com/balramsinghindia/about-balram#pipeline "Pipeline")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Design System](https://github.com/balramsinghindia/about-balram#ui-components "Design System")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Integrations](https://github.com/balramsinghindia/about-balram#integration-with-backend-technologies "Integrations")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Pipeline](https://github.com/balramsinghindia/about-balram#pipeline "Pipeline")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Design System](https://github.com/balramsinghindia/about-balram#ui-components "Design System")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Entrepreneur](https://github.com/balramsinghindia/about-balram#an-entrepreneur-who-has-run "Entrepreneur")
 
 
