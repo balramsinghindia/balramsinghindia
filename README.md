@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5DA2&lines=10+years+of+Experience;Full+Stack+Web+Developer;React+Scotland+Meetup+Organiser;Web+Accessibility+advocate;React%2C+TypeScript%2C+JavaScript+enthusiastic;DevOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5DA2&center=true&vCenter=true&width=450&height=70&lines=10+years+of+professional+experience;Full+stack+web+and+app+developer;DevOps+Engineer;React%2C+TypeScript+and+JavaScript+enthusiastic)](https://git.io/typing-svg)
 
 
 <!--
