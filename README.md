@@ -6,8 +6,8 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23FF5DA2&size=30&center=true&width=980&height=70&lines=10+years+of+professional+experience;Teacher%2C+Speaker+and+Trainer;Full+stack+web+and+app+developer;Web+accessibility+Advocate;React%2C+Typescript+and+JavaScript+enthusiastic)](https://git.io/typing-svg)
 
-[Architecture](https://github.com/balramsinghindia/about-balram#architectures-and-libraries-created-from-scratch "Architecture")
-[Talks](https://github.com/balramsinghindia/about-balram#talks "Talks")
+[Architecture](https://github.com/balramsinghindia/about-balram#architectures-and-libraries-created-from-scratch "Architecture")<p>&nbsp;</p>
+[Talks](https://github.com/balramsinghindia/about-balram#talks "Talks")<p>&nbsp;</p>
 [Trainings](https://github.com/balramsinghindia/about-balram#trainings-delivered "Trainings")
 [Features](https://github.com/balramsinghindia/about-balram#features "Features")
 [Integrations](https://github.com/balramsinghindia/about-balram#integration-with-backend-technologies "Integrations")
