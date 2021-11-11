@@ -7,9 +7,8 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23FF5DA2&size=30&center=true&width=980&height=70&lines=10+years+of+professional+experience;Teacher%2C+Speaker+and+Trainer;Full+stack+web+and+app+developer;Web+accessibility+Advocate;React%2C+Typescript+and+JavaScript+enthusiastic)](https://git.io/typing-svg)
 
 
-
-
 [About Balram] (https://github.com/balramsinghindia/about-balram)
+
 
 
 
