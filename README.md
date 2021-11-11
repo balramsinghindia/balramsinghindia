@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <p align="center">
       <img src="assets/balram.png" alt="Image" width="662" />
