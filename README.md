@@ -15,7 +15,7 @@
 [Design System](https://github.com/balramsinghindia/about-balram#ui-components "Design System")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Entrepreneur](https://github.com/balramsinghindia/about-balram#an-entrepreneur-who-has-run "Entrepreneur")
 
-
+- 📫 How to reach me: [Connect with me on Linkedin](https://www.linkedin.com/in/balramsingh)
 
 <!--
 **balramsinghindia/balramsinghindia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
