@@ -14,6 +14,7 @@
 [Pipeline](https://github.com/balramsinghindia/about-balram#pipeline "Pipeline")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Design System](https://github.com/balramsinghindia/about-balram#ui-components "Design System")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Entrepreneur](https://github.com/balramsinghindia/about-balram#an-entrepreneur-who-has-run "Entrepreneur")
+[Web Accessibility - Inclusive Design](https://www.youtube.com/watch?app=desktop&v=UVAZ44njaSk)
 
 - 📫 How to reach me: [Connect with me on Linkedin](https://www.linkedin.com/in/balramsingh)
 
